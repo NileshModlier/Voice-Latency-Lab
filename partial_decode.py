@@ -1,0 +1,1 @@
+def early_emit(tokens): return tokens[:2]

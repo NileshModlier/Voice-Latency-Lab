@@ -1,0 +1,1 @@
+def measure(ms): return ms
